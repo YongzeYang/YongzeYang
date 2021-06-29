@@ -1,4 +1,4 @@
-Hi, I'm Yongze, a sophomore student of [NPU](https://www.nwpu.edu.cn/), major in software engineering. 
+Hi, I'm Yongze, a sophomore student from [NPU](https://www.nwpu.edu.cn/), major in software engineering. 
 
 *Currently, I am looking for an internship opportunity in mainland China.*
 
