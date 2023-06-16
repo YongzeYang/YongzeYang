@@ -10,6 +10,6 @@
   </a>
 </p>
 
-Hi, I'm Yongze, a senior student from [NPU](https://www.nwpu.edu.cn/), major in software engineering. 
+Hi, I'm YANG Yongze, currently a senior student from [NPU](https://www.nwpu.edu.cn/), major in software engineering. In 23 fall I will be a MSc student in [CityU](https://www.cityu.edu.hk/).
 
 You can contact me via yongze_yang@outlook.com or yongze_yang@mail.nwpu.edu.cn.
