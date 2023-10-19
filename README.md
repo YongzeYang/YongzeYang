@@ -10,7 +10,7 @@
   </a>
 </p>
 
-Hi, I'm YANG Yongze, currently an Master of Science student from [CityU](https://www.cityu.edu.hk/) (CS Department). I got my Bachelor of Engineering in Software Engineering from [NWPU](https://www.nwpu.edu.cn/).
+Hi, I'm YANG Yongze, currently an Master of Science student from [CityU](https://www.cityu.edu.hk/) (CS Department). In July 2023 I got my Bachelor of Engineering in Software Engineering from [NWPU](https://www.nwpu.edu.cn/).
 
 Currently, I am looking for an internship opportunity in Hong Kong SAR or Shenzhen, China.
 
