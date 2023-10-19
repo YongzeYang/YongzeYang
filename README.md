@@ -10,6 +10,8 @@
   </a>
 </p>
 
-Hi, I'm YANG Yongze, currently a senior student from [NPU](https://www.nwpu.edu.cn/), major in software engineering. In 23 fall I will be a MSc student in [CityU](https://www.cityu.edu.hk/).
+Hi, I'm YANG Yongze, currently an Master of Science student from [CityU](https://www.cityu.edu.hk/) (CS Department). I got my Bachelor of Engineering in Software Engineering from [NWPU](https://www.nwpu.edu.cn/).
 
-You can contact me via yongze_yang@outlook.com or yongze_yang@mail.nwpu.edu.cn.
+Currently, I am looking for an internship opportunity in Hong Kong SAR or Shenzhen, China.
+
+You can contact me via yongze_yang@outlook.com.
