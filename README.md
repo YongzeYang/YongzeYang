@@ -10,8 +10,8 @@
   </a>
 </p>
 
-Hi, I'm YANG Yongze, an MSc student from [CityU](https://www.cityu.edu.hk/) (CS Department). In July 2023 I got my Bachelor of Engineering in Software Engineering from [NWPU](https://www.nwpu.edu.cn/).
+Hi, I'm YANG Yongze, an MSc student from [City University of Hong Kong](https://www.cityu.edu.hk/) (CS Department). In July 2023 I got my Bachelor of Engineering in Software Engineering from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
 
-Currently, I am looking for an internship opportunity in Hong Kong SAR or Shenzhen, China.
+Currently, I am an intern at [Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences](https://www.cair-cas.org.hk/), focusing on ultrasound data processing and analysis.
 
 You can contact me via yongze_yang@outlook.com.
