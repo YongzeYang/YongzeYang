@@ -14,8 +14,10 @@
 
 Hi, I'm YANG Yongze, an MSc student from [City University of Hong Kong](https://www.cityu.edu.hk/) (Computer Science Department). In July 2023 I got my Bachelor of Engineering in Software Engineering from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/).
 
-Previously (*from Mar 2024 to May 2024*), I was an intern at [Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences](https://www.cair-cas.org.hk/), focusing on ultrasound data processing and analysis.
+During my graduate studies, I was a part-time research assistant at the Shenzhen Research Institute of the City University of Hong Kong, responsible for Django back-end development and bioinformatics algorithms.
 
-Currently, I am looking for job opportunities located in Hong Kong. I will be graduating with an [Master of Science in Electronic Commerce](https://www.cityu.edu.hk/pg/programme/p17) degree in *October 2024* and getting my [IANG visa](https://www.immd.gov.hk/eng/services/visas/IANG.html) afterwards.
+Previously (*from Mar 2024 to May 2024*), I was an intern at [Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences](https://www.cair-cas.org.hk/), focusing on ultrasound data processing and analysis, specifically, semantic segmentation, target detection, etc. for medical image processing. 
+
+Currently, I am looking for job opportunities located in Hong Kong. I will be graduating with a [Master of Science in Electronic Commerce](https://www.cityu.edu.hk/pg/programme/p17) degree in *October 2024* and getting my [IANG visa](https://www.immd.gov.hk/eng/services/visas/IANG.html) afterwards.
 
 You can contact me via yongze_yang@outlook.com (personal).
