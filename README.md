@@ -12,9 +12,9 @@
   </a>
 </p>
 
-Hi, I'm YANG Yongze, an MSc student from [City University of Hong Kong](https://www.cityu.edu.hk/). I will soon join the Department of Computer Science at the City University of Hong Kong as a Research Assistant.
+Hi, I'm YANG Yongze, a Research Assistant of the Department of Computer Science at the [City University of Hong Kong](https://www.cityu.edu.hk/) (CityU).
 
-In July 2023 I got my Bachelor of Engineering in Software Engineering from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). I will be graduating with a [Master of Science in Electronic Commerce](https://www.cityu.edu.hk/pg/programme/p17) degree in *October 2024*.
+In July 2023, I got my Bachelor of Engineering in Software Engineering from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). I have also graduated with a [Master of Science in Electronic Commerce](https://www.cityu.edu.hk/pg/programme/p17) degree in *October 2024*.
 
 During my graduate studies, I was a part-time research assistant at the Shenzhen Research Institute of the City University of Hong Kong, responsible for Django back-end development and bioinformatics algorithms. Previously (*from Mar 2024 to May 2024*), I was an intern at [Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences](https://www.cair-cas.org.hk/), focusing on ultrasound data processing and analysis, specifically, semantic segmentation, target detection, etc. for medical image processing. 
 
