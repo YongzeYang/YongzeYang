@@ -4,9 +4,6 @@
   <a href="https://github.com/YongzeYang">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YongzeYang&theme=transparent" />
   </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=YongzeYang&theme=transparent" alt="GitHub Streak" />
-  </a>
   <a href="https://github.com/YongzeYang">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YongzeYang&theme=transparent" />
   </a>
@@ -28,20 +25,6 @@ In addition, I'll be uploading some of my valuable experiences from my education
 * *Graduated: October 2024*
 * **Bachelor of Engineering in Software Engineering** - School of Software - [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
 * *Graduated: July 2023*
-
----
-
-### 💻 Work & Research Experience
-
-**Research Assistant** @ [City University of Hong Kong](https://www.cityu.edu.hk/)
-* *Present*
-* Architecting and developing resilient frontend and backend systems with **Django** and **vue.js** for research applications. See [EAMHC](https://eamhc.deepomics.org/) for our newest work!
-* Implementing and optimizing high-performance **bioinformatics algorithms** to analyze complex biological data. We try to address memory issues involving **terabytes** of peak memory usage and millions of data operations in bioinformatics with a series of **C++ memory optimization algorithms**.
-
-**Research Intern** @ [Centre for Artificial Intelligence and Robotics (CAIR), HKISI, CAS](https://www.cair-cas.org.hk/)
-* *March 2024 - May 2024*
-* Focused on the processing and analysis of **ultrasound data**, applying deep learning techniques to the field of medical imaging.
-* Developed and optimized models for **semantic segmentation** and **object detection** to enhance diagnostic accuracy.
 
 ---
 
